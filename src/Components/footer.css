@@ -1,0 +1,23 @@
+.main {
+  width: 100%;
+  /* background-color: white; */
+  position: fixed;
+  bottom: 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+p {
+  color: #5f5c5c;
+  font-size: 12px;
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: white;
+  border: none;
+  border-radius: 10px;
+  padding: 5px;
+}
+
+p a {
+  text-decoration: none;
+}
